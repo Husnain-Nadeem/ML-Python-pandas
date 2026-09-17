@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2026-09-09T10:40:20",
+        "source_region": "us-west-2",
+        "destination_region": "us-east-1",
+        "avg_latency_ms": 65.186,
+        "packet_loss_percent": 0.0,
+        "jitter_ms": 0.039,
+        "throughput_mbps": 297,
+        "retransmissions": 115
+    }
+]
