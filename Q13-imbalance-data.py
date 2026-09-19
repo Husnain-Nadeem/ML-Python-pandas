@@ -4,8 +4,8 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
-from imblearn.over_sampling import SMOTE
-from imblearn.under_sampling import RandomUnderSampler
+#from imblearn.over_sampling import SMOTE
+#from imblearn.under_sampling import RandomUnderSampler
 
 # Sample Imbalanced Dataset
 # 900 "No Disease" cases, 100 "Disease" cases (imbalanced)
